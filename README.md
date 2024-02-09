@@ -4,9 +4,6 @@ Seth's Unreal Tools as of 02/15/2022
 
 Thanks for using my tools! 
 
-If you run into any bugs or issues you can e-mail me at: sethcip@gmail.com
-or if you have any requests for specific types of assets.
-
 Contains a Utility for changing asset paths:
 BPU_AssetPathUpdater_v3.0
 
@@ -27,9 +24,8 @@ Step 5: Open the project "SethsUnrealTools_20220215_ue4". Locate "BPU_AssetPathU
 
 Step6: Now open your project and right click on "BPU_AssetPathUpdater", select Run. 		
 
-For a more indepth overview check out my related videos on Youtube at "Technically Seth" 
-
- Youtube main page link: https://www.youtube.com/channel/UC8Q6592YIBvJGJNwcyr7srA
+For a visual overview check out my video on Youtube: 
+https://www.youtube.com/watch?v=1FzFlKAbDQc
 
 ***NOTE***
 As of AssetPathUpdater Version3, it only works on Static Meshes at this time. I will be adding more Assets in the future. 
